@@ -1,5 +1,5 @@
 --- 
-name: <script>alert(1)</script>
+name: <img src=x onerror=debugger>
 namespace: com.citrix.adc.stylebooks
 version: "1.3"
 description: This Stylebook defines a Web Application configuration with AppFw policies
